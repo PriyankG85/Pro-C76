@@ -10,7 +10,7 @@ import Meteors from "./screens/Meteors";
 export default function App() {
   return (
     <NavigationContainer>
-      <StatusBar style="auto" />
+      <StatusBar style="light" backgroundColor="rgba(36, 0, 70, 0.8)" />
       <StackNavigator.Navigator
         screenOptions={{
           headerShown: false,
