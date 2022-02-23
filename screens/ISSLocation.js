@@ -68,7 +68,7 @@ export default function ISSLocation() {
             }}
           >
             <Marker
-              coordinates={{
+              coordinate={{
                 latitude: location?.latitude,
                 longitude: location?.longitude,
               }}
