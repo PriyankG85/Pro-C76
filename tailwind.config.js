@@ -22,7 +22,7 @@ module.exports = {
         "80ed99": "#80ed99",
         "7cb518": "#7cb518",
         "49a078": "#49a078",
-        grayOpacity: "rgba(180, 194, 202, .7)",
+        grayOpacity: "rgba(220, 224, 255, .7)",
         "001d3dOpacity": "#001d3d",
       },
     },
